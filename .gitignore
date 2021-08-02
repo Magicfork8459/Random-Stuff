@@ -1,0 +1,17 @@
+
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.log
+*.recipe
+*.lastbuildstate
+*.tlog
+*.obj
+*.enc
+*.ipch
+*.db-shm
+*.db
+Network Adapter Stuff/.vs/Network Adapter Stuff/v16/.suo
+*.opendb
+*.db-wal
