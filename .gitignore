@@ -15,3 +15,12 @@
 Network Adapter Stuff/.vs/Network Adapter Stuff/v16/.suo
 *.opendb
 *.db-wal
+DLL Stuff/DLLInspector/x64/Release/DLLInspector.ixx.ifc.dt.md.json.command
+DLL Stuff/DLLInspector/x64/Release/.ifc.dt.md.json.command
+DLL Stuff/DLLInspector/x64/Debug/string.ifc.dt.md.json.command
+DLL Stuff/DLLInspector/x64/Debug/DLLInspector.ixx.ifc.dt.md.json.command
+DLL Stuff/DLLInspector/x64/Debug/.ifc.dt.md.json.command
+DLL Stuff/.vs/DLL Stuff/v16/.suo
+*.lib
+*.iobj
+*.ipdb
