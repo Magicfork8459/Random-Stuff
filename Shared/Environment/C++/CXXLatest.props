@@ -15,8 +15,8 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup>
     <ClCompile>
-      <EnableModules>true</EnableModules>
-      <AdditionalOptions>/EHsc %(AdditionalOptions)</AdditionalOptions>
+      <EnableModules>false</EnableModules>
+      <ExceptionHandling>Async</ExceptionHandling>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup />
