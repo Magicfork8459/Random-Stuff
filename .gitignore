@@ -24,3 +24,4 @@ DLL Stuff/.vs/DLL Stuff/v16/.suo
 *.lib
 *.iobj
 *.ipdb
+*.cache

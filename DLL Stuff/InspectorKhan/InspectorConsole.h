@@ -1,7 +1,9 @@
 #pragma once
 #include <iostream>
+#include <regex>
 #include <msclr\marshal_cppstd.h>
 
+#include <boost\format.hpp>
 #include <boost\program_options\options_description.hpp>
 #include <boost\program_options\variables_map.hpp>
 #include <boost\program_options\parsers.hpp>
@@ -14,6 +16,7 @@ namespace bpo = boost::program_options;
 
 namespace silverware
 {
+	//const std::regex REGEX_ALPHANUMERIC("");
 	class InspectorConsole
 	{
 	public:
