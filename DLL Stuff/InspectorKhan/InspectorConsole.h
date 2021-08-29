@@ -16,7 +16,8 @@ namespace bpo = boost::program_options;
 
 namespace silverware
 {
-	//const std::regex REGEX_ALPHANUMERIC("");
+	inline std::vector<std::string> tokenize(const std::string& input, const std::string& delimiters);
+
 	class InspectorConsole
 	{
 	public:
@@ -26,6 +27,9 @@ namespace silverware
 		void run();
 
 	private:
+		void onOpen();
+		void onView();
+
 		std::unique_ptr<DLLInspector> inspector;
 		bpo::options_description commandLineOptions;
 		bpo::options_description menuOptions {"Inspector Khan"};

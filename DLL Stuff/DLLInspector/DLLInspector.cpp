@@ -83,8 +83,7 @@ void DLLInspector::enumerateLibrary(int index)
 	{
 		const bde::smart_library& library = *libraries.at(index);
 		
-		//library.
-		//library.get_constructor();
+		//library.get_function<library.g>("");
 	}
 	catch (const std::out_of_range& oor)
 	{
