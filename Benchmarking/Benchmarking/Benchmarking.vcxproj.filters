@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Benchmarking.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Benchmarker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

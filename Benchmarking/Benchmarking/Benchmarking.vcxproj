@@ -142,7 +142,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Benchmarker.cpp" />
-    <ClCompile Include="Benchmarking.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Benchmarker.h" />
